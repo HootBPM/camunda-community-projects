@@ -1,0 +1,81 @@
+
+== Community Projects CCL 2020.2
+
+|===
+|Project Summary |Project URI
+
+| *A component for pooling Camunda BPM user tasks with business data for high performance queries.* | https://www.holunda.io/camunda-bpm-taskpool/
+
+| *Integration between Micronaut and Camunda BPM Process Engine. We configure Camunda BPM with sensible defaults, so that you can get started with minimum configuration: simply add a dependency in your Micronaut project!*
+| https://github.com/NovatecConsulting/micronaut-camunda-bpm
+
+| *DMN Manager* | https://medium.com/@davidibl/dmn-manager-ed2afa73b221
+
+| *Add tooltips to various BPMN-elements revealing technical properties.* | https://github.com/viadee/camunda-modeler-tooltip-plugin
+
+| *Collaborative Cockpit instance* | https://github.com/SebastianStamm/camunda-collab
+
+| *testing DRD diagrams, by Stefan Wiese, Max Trumpf and Maciej Barelkowski* | https://github.com/bpmn-io/dmn-testing-plugin
+
+| *import Excel sheets to DMN decision tables* | https://github.com/pinussilvestrus/camunda-modeler-excel-import-plugin
+
+| *getting/setting running server configuration settings, by Chris Allen and Andreas Remdt* | https://github.com/Camunda-ChrisAllen/deployment-descriptor-editor
+
+| *demonstrate 3rd party API integration and microservices* | https://github.com/lwille/camunda-summer-hack-2020
+
+|===
+
+== Community Projects CCL 2020.1
+
+|===
+|Project Summary |Project URI
+
+|*Allows BPMN designers to declarative define what values
+from an incoming JSON based message will be used to streaming
+correlate to a Process*|https://github.com/UltimateSoftware/camunda-message-
+
+|*Extensible worker for Node.js that works with both Zeebe
+and Camunda BPM platforms powered by TypeScript*|https://github.com/VilledeMontreal/workit
+
+|*Utilities to help migrate applications* | https://github.com/camunda-consulting/migrate-to-camunda-tools
+
+| *Integration between Micronaut and Camunda BPM Process Engine. We configure Camunda BPM with sensible defaults, so that you can get started with minimum configuration: simply add a dependency in your Micronaut project!*
+| https://github.com/NovatecConsulting/micronaut-camunda-bpm
+
+|*GRAAL.vm JS Camunda Integration*| https://github.com/summit58/camunda-bpm-platform/tree/7.12.2
+
+|*Machine learning around business processes. Contribute to viadee/bpmn.ai development by creating an account on
+GitHub.*| https://github.com/viadee/bpmn.ai
+
+|*Validate your camunda projects during development*| https://github.com/viadee/vPAV
+
+|*Send Camunda events to kafka*| https://github.com/viadee/camunda-kafka-polling-client
+
+|*Place BPMN 2.0 process models on your Confluence pages
+and collaborate with your team*| https://marketplace.atlassian.com/apps/1215543/bpmn-modeler-free?hosting=server&tab=overview
+
+|*Model your CMMN Cases within Confluence*| https://marketplace.atlassian.com/apps/1216838/cmmn-modeler?hosting=server&tab=overview
+
+|*Beautiful process data handling for Camunda BPM.*| https://www.holunda.io/camunda-bpm-data/
+
+|*bpmn-js is a BPMN 2.0 rendering toolkit and web modeler. It
+is written in JavaScript and embeds BPMN 2.0 diagrams into
+modern browsers and requires no server backend.*| * https://bpmn.io/toolkit/bpmn-js/walkthrough/
+
+* https://github.com/bpmn-io/awesome-bpmn-io
+
+* https://github.com/bpmn-io/bpmn-js-examples/tree/master/custom-elements
+
+* https://github.com/bpmn-io/diagram-js-minimap
+
+* https://github.com/bpmn-io/bpmn-js-bpmnlint
+
+* https://github.com/bpmn-io/bpmn-js-examples
+
+|*Visual GIT DIFF using bpmn-js*| https://github.com/38leinaD/bpmn-diff
+
+|*Resizable tasks Modeling Plugins*| https://github.com/ElCondor1969/bpmn-js-task-resize
+
+|*Roll your own BPMN Editor*| https://github.com/nikku/roll-your-own-bpmn-editor/
+
+|===
