@@ -1,5 +1,5 @@
 
-== Community Projects CCL 2020.2
+== Camunda Community Projects
 
 |===
 |Project Summary |Project URI
@@ -22,13 +22,6 @@
 | *getting/setting running server configuration settings, by Chris Allen and Andreas Remdt* | https://github.com/Camunda-ChrisAllen/deployment-descriptor-editor
 
 | *demonstrate 3rd party API integration and microservices* | https://github.com/lwille/camunda-summer-hack-2020
-
-|===
-
-== Community Projects CCL 2020.1
-
-|===
-|Project Summary |Project URI
 
 |*Allows BPMN designers to declarative define what values
 from an incoming JSON based message will be used to streaming
